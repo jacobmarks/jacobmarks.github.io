@@ -1,6 +1,8 @@
 ---
+You can also find my publications on [[Google Scholar](https://scholar.google.com/citations?user=2OBZbPYAAAAJ&hl=en)].
+
 # Publications
-<!--My publications -->
+
 ## Ph.D. Dissertation
 **Jacob A. Marks**, *The Surprising Persistence of Symmetry Protected Topology*. **Stanford Digital Repository**, 2022. [[Link](https://purl.stanford.edu/bm224xz2966)]
 
@@ -11,7 +13,11 @@
 + **Jacob A. Marks**, Thomas Jochym-O'Connor, Vlad Gheorghiu, *Comparison of memory thresholds for planar qudit geometries*. **New Journal of Physics**, 2017. [[Link](https://iopscience.iop.org/article/10.1088/1367-2630/aa939a)]
 
 ## Arxiv
-+ Guillaume Verdon, **Jacob A. Marks**, Sasha Nanda, Stefan Leichenauer, Jack Hidary, *Quantum Hamiltonian-based models and the variational quantum thermalizer algorithm, 2019. [[Link](https://arxiv.org/pdf/1910.02071.pdf)] 
++ Guillaume Verdon, **Jacob A. Marks**, Sasha Nanda, Stefan Leichenauer, Jack Hidary, *Quantum Hamiltonian-based models and the variational quantum thermalizer algorithm*, 2019. [[Link](https://arxiv.org/pdf/1910.02071.pdf)] 
+
+
+
+
 
 
 
