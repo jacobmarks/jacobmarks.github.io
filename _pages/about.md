@@ -13,6 +13,7 @@ Recent Ph.D. in Physics from Stanford, where I conducted theoretical and computa
 Hobbies
 ======
 * ✍️ Writing about philosophy, science, and machine learning.
+* 📖 Reading. Science fiction, general interest, and the classics.
 * 🏃 Climbing, hiking, running, and walking.
 * 🏀 Basketball. Ball is life.
 * 🎨 Origami
