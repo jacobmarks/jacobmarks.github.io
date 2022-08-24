@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Links"
+  name             : 
   avatar           : "jacobmarks_profile.png"
-  bio              : 
+  bio              : "Stanford Physics Ph.D."
   location         : "Oakland, CA"
   employer         :
   pubmed           :
