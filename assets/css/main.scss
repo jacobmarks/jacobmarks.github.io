@@ -41,17 +41,40 @@
 @import "print";
 
 .card {
-  /* Add shadows to create the "card" effect */
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-  border-radius: 5px; /* 5px rounded corners */
+  width: 20rem;
 }
 
-/* On mouse-over, add a deeper shadow */
-.card:hover {
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+.card-deck {
+  margin-bottom: 1.5rem;
 }
 
-/* Add some padding inside the card container */
-.container {
-  padding: 2px 16px;
+.card img {
+  margin: 0px;
+}
+
+.card .btn {
+  font-size: .75rem;
+  margin-right: .75em;
+  margin-bottom: .75em;
+}
+
+.card-title {
+  font-weight: 750;
+  font-size: 1.1rem;
+  margin-bottom: .5rem;
+  margin-top: 0px;
+}
+
+.card-text {
+  font-size: .75rem;
+}
+
+.card-buttons {
+  padding-left: 1.25rem;
+  padding-bottom: .5rem;
+}
+
+.card-footer {
+  font-size: .75rem;
+  padding-top: .5rem;
 }
