@@ -1,5 +1,6 @@
 ---
 # Publications
+<!--My publications -->
 ## Ph.D. Dissertation
 **Jacob A. Marks**, *The Surprising Persistence of Symmetry Protected Topology*. **Stanford Digital Repository**, 2022. [[Link](https://purl.stanford.edu/bm224xz2966)]
 
