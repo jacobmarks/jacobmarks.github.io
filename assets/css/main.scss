@@ -95,6 +95,13 @@
   font-size: .75rem;
   padding-top: .5rem;
 }
+
+.project-list {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 30px;
+  margin-bottom: 10px;
+}
   
 .btn-primary {
   color: white;
