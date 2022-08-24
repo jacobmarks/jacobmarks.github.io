@@ -51,11 +51,11 @@
 .card {
   width: 20rem;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.3);
-  transition: 0.3s;
-  background: rgba(0,0,0,0.1);
+  transition: 0.5s;
+  background: white;
   padding: 15px;
-  padding-top: 45px;
-  border-radius: 14px;
+  padding-top: 15px;
+  border-radius: 3px;
 }
 
 .card-deck {
@@ -104,6 +104,6 @@
 
 .btn-primary:hover, .btn-primary:active, .btn-primary.active, .btn-primary:focus, .btn-primary.focus {
   color: black;
-  background-color: #303030;
-  border-color: #303030;
+  background-color: #202020;
+  border-color: #c0c0c0;
 }
