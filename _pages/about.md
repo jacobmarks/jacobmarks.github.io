@@ -14,8 +14,8 @@ I've interned at Google X, Samsung's Think Tank Team, and Wolfram Research. Befo
 
 Hobbies
 ======
-* ✍️ Writing about philosophy, science, and machine learning
-* 📖 Reading: science fiction, general interest, and the classics
+* ✍️ <a href="/year-archive/" target="_blank" text-center>Writing</a> about philosophy, science, and machine learning
+* 📖 <a href="/reading/" target="_blank" text-center>Reading</a>: science fiction, general interest, and the classics
 * 🏃 Climbing, hiking, running, and walking
 * 🏀 Basketball. Ball is life.
 * 🎨 Origami
