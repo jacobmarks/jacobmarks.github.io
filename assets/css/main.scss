@@ -179,10 +179,97 @@
 
 .book-card-title {
   font-weight: 550;
-  font-size: 0.85rem;
+  font-size: 0.78rem;
   margin-left: auto;
   margin-right: auto;
 }
+
+
+
+
+
+.writing-list {
+  display: flex;
+  padding-top:10px;
+  gap: 10px;
+  row-gap: 40px;
+  flex-flow: row wrap;
+  justify-content: left;
+  padding-bottom:30px;
+}
+
+.float-layout {
+  padding: 5px 5px;
+  float: left;
+  width: 100%;
+  height: auto;
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.card-container {
+  overflow: hidden;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.3);
+  transition: 0.5s;
+  background: white;
+  padding: 15px;
+  padding-top: 15px;
+  border-radius: 3px;
+  position: relative;
+}
+
+.card-container a{
+  position: absolute;
+  width:100%;
+  height:100%;
+  top:0px;
+  left:0px;
+}
+
+.writing-card-content {
+  min-height: 8rem;
+  width: 75%;
+  float: right;
+  border-left: 1px solid;
+}
+
+.writing-card-image {
+  display: flex;
+}
+
+div.writing-card-image img {
+  width: auto;
+  height: 50%;
+  max-height: 7.5rem;
+  max-width: 20%;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.writing-card-title {
+  padding-left: 15px;
+  font-weight: 750;
+  font-size: 1.1rem;
+  margin-bottom: .5rem;
+  margin-top: 10px;
+}
+
+.writing-card-text {
+  padding-left: 15px;
+  font-size: .75rem;
+  margin-bottom: 1rem;
+}
+
+.writing-card-text-muted {
+  padding-left: 15px;
+  font-size: .7rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
 
 
 
