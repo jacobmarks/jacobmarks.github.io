@@ -87,6 +87,99 @@ redirect_from:
 
 ## Silhouette of Science Blog
 
+<div class="writing-list">
+
+  <div class="card-container">
+    <a href="https://silhouetteofscience.com/unfolding-the-protein-folding-solution/" class="stretched-link" target="_blank"></a>
+    <div class="float-layout">
+      <div class="writing-card-image">
+        <img src="/images/writing/sos_protein_folding.jpg">
+        <div class="writing-card-content">
+          <div class="writing-card-title">Unfolding the Protein Folding Solution</div>
+          <div class="writing-card-text">
+            In November, we witnessed another remarkable scientific feat, as Google DeepMind’s AlphaFold2 “solved” the protein folding problem...
+          </div>
+          <div class="writing-card-text-muted">
+            26 January 2021
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card-container">
+    <a href="https://silhouetteofscience.com/symmetry-redux/" class="stretched-link" target="_blank"></a>
+    <div class="float-layout">
+      <div class="writing-card-image">
+        <img src="/images/writing/sos_symmetry_redux.jpg">
+        <div class="writing-card-content">
+          <div class="writing-card-title">Symmetry Redux: Conservation Laws</div>
+          <div class="writing-card-text">
+            One of the first topics I ever posted about here on Silhouette of Science is Symmetry. I was fascinated by the manifold ways, both obvious and subtle, that Symmetry pervades our world...
+          </div>
+          <div class="writing-card-text-muted">
+            22 July 2020
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card-container">
+    <a href="https://silhouetteofscience.com/the-physics-metaphysics-gap/" class="stretched-link" target="_blank"></a>
+    <div class="float-layout">
+      <div class="writing-card-image">
+        <img src="/images/writing/sos_physics_metaphysics_gap.png">
+        <div class="writing-card-content">
+          <div class="writing-card-title">The Physics-Metaphysics Gap</div>
+          <div class="writing-card-text">
+            Physics and philosophy are like cosmic yin and yang, complementary and complete, our universe their union. They exist in distinct spaces...
+          </div>
+          <div class="writing-card-text-muted">
+            13 January 2020
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card-container">
+    <a href="https://silhouetteofscience.com/whats-in-a-universe/" class="stretched-link" target="_blank"></a>
+    <div class="float-layout">
+      <div class="writing-card-image">
+        <img src="/images/writing/sos_universe.jpg">
+        <div class="writing-card-content">
+          <div class="writing-card-title">What’s in a Universe</div>
+          <div class="writing-card-text">
+            Temporally, we believe the age of the Universe to be roughly 13.8 billion years. Spatially, the observable universe is a sphere 93 billion light-years across. What’s beyond this sphere is a mystery...
+          </div>
+          <div class="writing-card-text-muted">
+            02 September 2019
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card-container">
+    <a href="https://silhouetteofscience.com/diagrams-and-deep-neural-nets-abstraction-in-science/" class="stretched-link" target="_blank"></a>
+    <div class="float-layout">
+      <div class="writing-card-image">
+        <img src="/images/writing/sos_abstraction.jpg">
+        <div class="writing-card-content">
+          <div class="writing-card-title">Diagrams and Deep Neural Nets: Abstraction in Science</div>
+          <div class="writing-card-text">
+            In science as in art, abstraction has always been vital to progress. It is responsible for our mathematics, for many of our scientific discoveries, and for unearthing overlooked connections in old theories...
+          </div>
+          <div class="writing-card-text-muted">
+            04 January 2019
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+</div>
 
 ## Yale Scientific Magazine
 

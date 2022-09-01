@@ -10,6 +10,17 @@ redirect_from:
 ## 2022
 
 <div class="book-gallery">
+
+  <div class="book-card h-100 d-flex flex-column justify-content-between">
+    <a href="https://www.goodreads.com/book/show/41160292-exhalation" target="_blank">
+      <img class="book-card-img-top mx-auto" src="/images/books/2022/exhalation.jpg">
+    </a>
+    <div class="card-body d-flex flex-column">
+      <div class="book-card-title">Exhalation
+      </div>
+    </div>
+  </div>
+
   <div class="book-card h-100 d-flex flex-column justify-content-between">
     <a href="https://www.goodreads.com/book/show/41552709-the-uninhabitable-earth" target="_blank">
       <img class="book-card-img-top mx-auto" src="/images/books/2022/uninhabitable_earth.png">
@@ -18,8 +29,8 @@ redirect_from:
       <div class="book-card-title">The Uninhabitable Earth
       </div>
     </div>
-
   </div>
+
   <div class="book-card h-100 d-flex flex-column justify-content-between">
     <a href="https://www.goodreads.com/book/show/48829708-to-sleep-in-a-sea-of-stars" target="_blank">
       <img class="book-card-img-top mx-auto" src="/images/books/2022/to_sleep_in_a_sea_of_stars.jpg">
