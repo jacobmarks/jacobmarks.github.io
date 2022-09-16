@@ -12,6 +12,36 @@ redirect_from:
 <div class="book-gallery">
 
   <div class="book-card h-100 d-flex flex-column justify-content-between">
+    <a href="https://www.goodreads.com/book/show/55223435-net-zero" target="_blank">
+      <img class="book-card-img-top mx-auto" src="/images/books/2022/net_zero.jpg">
+    </a>
+    <div class="card-body d-flex flex-column">
+      <div class="book-card-title">Net Zero: How We Stop Causing Climate Change
+      </div>
+    </div>
+  </div>
+
+  <div class="book-card h-100 d-flex flex-column justify-content-between">
+    <a href="https://www.goodreads.com/book/show/52908942-how-to-avoid-a-climate-disaster" target="_blank">
+      <img class="book-card-img-top mx-auto" src="/images/books/2022/how_to_avoid_a_climate_disaster.jpg">
+    </a>
+    <div class="card-body d-flex flex-column">
+      <div class="book-card-title">How to Avoid a Climate Disaster
+      </div>
+    </div>
+  </div>
+
+  <div class="book-card h-100 d-flex flex-column justify-content-between">
+    <a href="https://www.goodreads.com/book/show/55145261-the-anthropocene-reviewed" target="_blank">
+      <img class="book-card-img-top mx-auto" src="/images/books/2022/anthropocene_reviewed.jpg">
+    </a>
+    <div class="card-body d-flex flex-column">
+      <div class="book-card-title">The Anthropocene Reviewed
+      </div>
+    </div>
+  </div>
+
+  <div class="book-card h-100 d-flex flex-column justify-content-between">
     <a href="https://www.goodreads.com/book/show/41160292-exhalation" target="_blank">
       <img class="book-card-img-top mx-auto" src="/images/books/2022/exhalation.jpg">
     </a>
