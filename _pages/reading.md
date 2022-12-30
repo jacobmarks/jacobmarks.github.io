@@ -12,6 +12,66 @@ redirect_from:
 <div class="book-gallery">
 
   <div class="book-card h-100 d-flex flex-column justify-content-between">
+    <a href="https://www.goodreads.com/book/show/58782897-the-end-of-the-world-is-just-the-beginning" target="_blank">
+      <img class="book-card-img-top mx-auto" src="/images/books/2022/the_end_of_the_world_is_just_the_beginning.jpg">
+    </a>
+    <div class="card-body d-flex flex-column">
+      <div class="book-card-title">The end of the world is just the beginning
+      </div>
+    </div>
+  </div>
+
+  <div class="book-card h-100 d-flex flex-column justify-content-between">
+    <a href="https://www.goodreads.com/book/show/55278507-shards-of-earth" target="_blank">
+      <img class="book-card-img-top mx-auto" src="/images/books/2022/shards_of_earth.jpg">
+    </a>
+    <div class="card-body d-flex flex-column">
+      <div class="book-card-title">Shards of earth
+      </div>
+    </div>
+  </div>
+
+  <div class="book-card h-100 d-flex flex-column justify-content-between">
+    <a href="https://www.goodreads.com/book/show/58784475-tomorrow-and-tomorrow-and-tomorrow" target="_blank">
+      <img class="book-card-img-top mx-auto" src="/images/books/2022/tomorrow_tomorrow_tomorrow.jpg">
+    </a>
+    <div class="card-body d-flex flex-column">
+      <div class="book-card-title">Tomorrow and tomorrow and tomorrow
+      </div>
+    </div>
+  </div>
+
+  <div class="book-card h-100 d-flex flex-column justify-content-between">
+    <a href="https://www.goodreads.com/book/show/27276431-on-trails" target="_blank">
+      <img class="book-card-img-top mx-auto" src="/images/books/2022/on_trails.png">
+    </a>
+    <div class="card-body d-flex flex-column">
+      <div class="book-card-title">On trails: an exploration
+      </div>
+    </div>
+  </div>
+
+  <div class="book-card h-100 d-flex flex-column justify-content-between">
+    <a href="https://www.goodreads.com/book/show/25350.Out_of_the_Silent_Planet" target="_blank">
+      <img class="book-card-img-top mx-auto" src="/images/books/2022/out_of_the_silent_planet.jpg">
+    </a>
+    <div class="card-body d-flex flex-column">
+      <div class="book-card-title">Out of the silent planet
+      </div>
+    </div>
+  </div>
+
+  <div class="book-card h-100 d-flex flex-column justify-content-between">
+    <a href="https://www.goodreads.com/book/show/34065158-darwin-s-house-of-cards" target="_blank">
+      <img class="book-card-img-top mx-auto" src="/images/books/2022/darwins_house_of_cards.jpg">
+    </a>
+    <div class="card-body d-flex flex-column">
+      <div class="book-card-title">Darwin’s house of cards
+      </div>
+    </div>
+  </div>
+
+  <div class="book-card h-100 d-flex flex-column justify-content-between">
     <a href="https://www.goodreads.com/book/show/79678.Technopoly" target="_blank">
       <img class="book-card-img-top mx-auto" src="/images/books/2022/technopoly.jpg">
     </a>
