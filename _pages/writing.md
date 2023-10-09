@@ -7,22 +7,12 @@ redirect_from:
   - /writing.html
 ---
 
-<!-- Table starts here -->
-<table>
-  <tr>
-    <td><a href="#towards-data-science"><br>Towards Data Science</a></td>
-    <td><a href="#level-up-coding"><br>Level Up Coding</a></td>
-  </tr>
-  <tr>
-    <td><a href="#physics-world"><br>Physics World</a></td>
-    <td><a href="#silhouette-of-science"><br>Silhouette of Science</a></td>
-  </tr>
-  <tr>
-    <td><a href="#aws-blog"><br>AWS Blog</a></td>
-    <td><a href="#yale-scientific-magazine"><br>Yale Scientific Magazine</a></td>
-  </tr>
-</table>
-<!-- Table ends here -->
+- <a href="#towards-data-science">Towards Data Science</a>
+- <a href="#level-up-coding">Level Up Coding</a>
+- <a href="#physics-world">Physics World</a>
+- <a href="#silhouette-of-science">Silhouette of Science</a>
+- <a href="#aws-blog">AWS Blog</a>
+- <a href="#yale-scientific-magazine">Yale Scientific Magazine</a>
 
 ## <a id="towards-data-science"></a> Towards Data Science
 
