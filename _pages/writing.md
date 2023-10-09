@@ -7,7 +7,160 @@ redirect_from:
   - /writing.html
 ---
 
-## Physics World
+<!-- Table starts here -->
+<table>
+  <tr>
+    <td><a href="#towards-data-science"><br>Towards Data Science</a></td>
+    <td><a href="#level-up-coding"><br>Level Up Coding</a></td>
+  </tr>
+  <tr>
+    <td><a href="#physics-world"><br>Physics World</a></td>
+    <td><a href="#silhouette-of-science"><br>Silhouette of Science</a></td>
+  </tr>
+  <tr>
+    <td><a href="#aws-blog"><br>AWS Blog</a></td>
+    <td><a href="#yale-scientific-magazine"><br>Yale Scientific Magazine</a></td>
+  </tr>
+</table>
+<!-- Table ends here -->
+
+## <a id="towards-data-science"></a> Towards Data Science
+
+<div class="writing-list">
+  <div class="card-container">
+    <a href="https://towardsdatascience.com/an-ode-to-my-physics-ph-d-718894196f91" class="stretched-link" target="_blank"></a>
+    <div class="float-layout">
+      <div class="writing-card-image">
+        <img src="/images/writing/ode_to_physics_phd.jpg">
+        <div class="writing-card-content">
+          <div class="writing-card-title">An Ode to my Physics Ph.D.</div>
+          <div class="writing-card-text">
+            One year ago, I defended my doctoral dissertation. That day — that moment — represented a culmination. At the same time, this moment was unmistakably bittersweet...
+          </div>
+          <div class="writing-card-text-muted">
+            18 July 2023
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card-container">
+    <a href="https://towardsdatascience.com/an-ode-to-my-physics-ph-d-718894196f91" class="stretched-link" target="_blank"></a>
+    <div class="float-layout">
+      <div class="writing-card-image">
+        <img src="/images/writing/ai_telephone.png">
+        <div class="writing-card-content">
+          <div class="writing-card-title">AI Telephone — A Battle of Multimodal Models</div>
+          <div class="writing-card-text">
+            Generative AI is on fire right now. With all of this excitement, I wanted to put multimodal models to the test and see how good they actually are. In particular, I wanted to answer three questions...
+          </div>
+          <div class="writing-card-text-muted">
+            15 June 2023
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card-container">
+    <a href="https://towardsdatascience.com/what-i-learned-pushing-prompt-engineering-to-the-limit-c40f0740641f" class="stretched-link" target="_blank"></a>
+    <div class="float-layout">
+      <div class="writing-card-image">
+        <img src="/images/writing/prompt_engineering.png">
+        <div class="writing-card-content">
+          <div class="writing-card-title">What I Learned Pushing Prompt Engineering to the Limit</div>
+          <div class="writing-card-text">
+            I spent the past two months building a large-language-model (LLM) powered application. It was an exciting, intellectually stimulating, and at times frustrating experience. My entire conception of prompt engineering — and of what is possible with LLMs — changed over the course of the project.
+          </div>
+          <div class="writing-card-text-muted">
+            12 June 2023
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card-container">
+    <a href="https://towardsdatascience.com/how-i-turned-chatgpt-into-an-sql-like-translator-for-image-and-video-datasets-7b22b318400a" class="stretched-link" target="_blank"></a>
+    <div class="float-layout">
+      <div class="writing-card-image">
+        <img src="/images/writing/voxelgpt_sql_translator.png">
+        <div class="writing-card-content">
+          <div class="writing-card-title">How I Turned ChatGPT into an SQL-Like Translator for Image and Video Datasets</div>
+          <div class="writing-card-text">
+            A few months back, with the ChatGPT craze in full swing, I saw an example application on OpenAI’s website of translating natural language input into SQL queries. It got me thinking: could something similar be done for datasets of images and videos?
+          </div>
+          <div class="writing-card-text-muted">
+            8 June 2023
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card-container">
+    <a href="https://towardsdatascience.com/see-what-you-sam-4eea9ad9a5de" class="stretched-link" target="_blank"></a>
+    <div class="float-layout">
+      <div class="writing-card-image">
+        <img src="/images/writing/see_what_you_sam.png">
+        <div class="writing-card-content">
+          <div class="writing-card-title">See What You Segment with SAM</div>
+          <div class="writing-card-text">
+            Over the past few weeks, Meta AI Research’s general purpose image segmentation model has attracted a lot of attention. SAM is remarkably powerful...
+          </div>
+          <div class="writing-card-text-muted">
+            3 May 2023
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card-container">
+    <a href="https://towardsdatascience.com/see-what-you-sam-4eea9ad9a5de" class="stretched-link" target="_blank"></a>
+    <div class="float-layout">
+      <div class="writing-card-image">
+        <img src="/images/writing/how_i_turned_docs_into_database.jpeg">
+        <div class="writing-card-content">
+          <div class="writing-card-title">How I Turned My Company’s Docs into a Searchable Database with OpenAI</div>
+          <div class="writing-card-text">
+            For the past six months, I’ve been working at series A startup Voxel51. We have a lot of documentation, which has its pros and cons. So, here’s how I turned our docs into a semantically searchable vector database...
+          </div>
+          <div class="writing-card-text-muted">
+            25 April 2023
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+
+## <a id="level-up-coding"></a> Level Up Coding
+
+<div class="writing-list">
+  <div class="card-container">
+    <a href="https://medium.com/gitconnected/badger-custom-badges-made-easy-4d90d66af241" class="stretched-link" target="_blank"></a>
+    <div class="float-layout">
+      <div class="writing-card-image">
+        <img src="/images/writing/badger.png">
+        <div class="writing-card-content">
+          <div class="writing-card-title">Badger: Custom Badges Made Easy</div>
+          <div class="writing-card-text">
+            Back in June, inspired by paperswithcode.com my team and I created PapersWithData. To create the badges, we used Shields.io. To solve the problems we encountered, I built Badger!
+          </div>
+          <div class="writing-card-text-muted">
+            26 September 2023
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+## <a id="physics-world"></a> Physics World
 
 <div class="writing-list">
 
@@ -85,7 +238,7 @@ redirect_from:
   
 </div>
 
-## Silhouette of Science Blog
+## <a id="silhouette-of-science"></a> Silhouette of Science Blog
 
 <div class="writing-list">
 
@@ -181,7 +334,29 @@ redirect_from:
   
 </div>
 
-## Yale Scientific Magazine
+## <a id="aws-blog"></a> AWS Blog
+
+<div class="writing-list">
+  <div class="card-container">
+    <a href="https://aws.amazon.com/blogs/machine-learning/create-high-quality-datasets-with-amazon-sagemaker-ground-truth-and-fiftyone/" class="stretched-link" target="_blank"></a>
+    <div class="float-layout">
+      <div class="writing-card-image">
+        <img src="/images/writing/aws_blog_cover.png">
+        <div class="writing-card-content">
+          <div class="writing-card-title">Create high-quality datasets with Amazon SageMaker Ground Truth and FiftyOne</div>
+          <div class="writing-card-text">
+            A retail company is building a mobile app to help customers buy clothes. To create this app, they need a high-quality dataset containing clothing images, labeled with different categories...
+          </div>
+          <div class="writing-card-text-muted">
+            05 May 2023 - cowritten with Voxel51 and SageMaker Ground Truth teams
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+## <a id="yale-scientific-magazine"></a> Yale Scientific Magazine
 
 <div class="writing-list">
 
