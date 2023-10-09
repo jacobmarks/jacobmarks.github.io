@@ -7,6 +7,65 @@ redirect_from:
   - /reading.html
 ---
 
+## 2023
+
+<div class="book-gallery">
+  <div class="book-card h-100 d-flex flex-column justify-content-between">
+    <a href="https://www.goodreads.com/book/show/40718726-genghis-khan-and-the-making-of-the-modern-world?ref=nav_sb_ss_1_7" target="_blank">
+      <img class="book-card-img-top mx-auto" src="/images/books/2023/genghis_khan_making_of_modern_world.jpeg">
+    </a>
+    <div class="card-body d-flex flex-column">
+      <div class="book-card-title">Genghis Khan and the Making of the Modern World
+      </div>
+    </div>
+  </div>
+  <div class="book-card h-100 d-flex flex-column justify-content-between">
+    <a href="https://www.goodreads.com/book/show/77507.Red_Mars?ref=nav_sb_ss_1_8" target="_blank">
+      <img class="book-card-img-top mx-auto" src="/images/books/2023/red_mars.jpeg">
+    </a>
+    <div class="card-body d-flex flex-column">
+      <div class="book-card-title">Red Mars
+      </div>
+    </div>
+  </div>
+  <div class="book-card h-100 d-flex flex-column justify-content-between">
+    <a href="https://www.goodreads.com/book/show/267838.Mapping_Human_History?from_search=true&from_srp=true&qid=LTzNwsqXKN&rank=1" target="_blank">
+      <img class="book-card-img-top mx-auto" src="/images/books/2023/mapping_human_history.jpeg">
+    </a>
+    <div class="card-body d-flex flex-column">
+      <div class="book-card-title">Mapping Human History
+      </div>
+    </div>
+  </div>
+  <div class="book-card h-100 d-flex flex-column justify-content-between">
+    <a href="https://www.goodreads.com/book/show/60784614-cobalt-red?from_search=true&from_srp=true&qid=B1BPTvYyaW&rank=1" target="_blank">
+      <img class="book-card-img-top mx-auto" src="/images/books/2023/cobalt_red.jpeg">
+    </a>
+    <div class="card-body d-flex flex-column">
+      <div class="book-card-title">Cobalt Red
+      </div>
+    </div>
+  </div>
+  <div class="book-card h-100 d-flex flex-column justify-content-between">
+    <a href="https://www.goodreads.com/book/show/40591955-a-death-in-the-rainforest?ref=nav_sb_ss_1_19" target="_blank">
+      <img class="book-card-img-top mx-auto" src="/images/books/2023/death_in_the_rainforest.jpeg">
+    </a>
+    <div class="card-body d-flex flex-column">
+      <div class="book-card-title">A Death in the Rainforest
+      </div>
+    </div>
+  </div>
+  <div class="book-card h-100 d-flex flex-column justify-content-between">
+    <a href="https://www.goodreads.com/book/show/19161852-the-fifth-season" target="_blank">
+      <img class="book-card-img-top mx-auto" src="/images/books/2023/fifth_season.jpeg">
+    </a>
+    <div class="card-body d-flex flex-column">
+      <div class="book-card-title">The Fifth Season
+      </div>
+    </div>
+  </div>
+</div>
+
 ## 2022
 
 <div class="book-gallery">
