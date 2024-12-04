@@ -15,6 +15,8 @@ author_profile: true
 + **Jacob A. Marks**, Thomas Jochym-O'Connor, Vlad Gheorghiu, *Comparison of memory thresholds for planar qudit geometries*. **New Journal of Physics**, 2017. [[Link](https://iopscience.iop.org/article/10.1088/1367-2630/aa939a)]
 
 ## Arxiv
++ **Jacob Marks**, Brent A. Griffin, Jason J. Corso, *Class-wise Autoencoders Measure Classification Difficulty And Detect Label Mistakes*, 2024. [[Link](https://arxiv.org/pdf/2412.02596)]
++ Brent A. Griffin, **Jacob Marks**, Jason J. Corso, *Zero-Shot Coreset Selection: Efficient Pruning for Unlabeled Data*, 2024. [[Link](https://arxiv.org/pdf/2411.15349)]
 + Guillaume Verdon, **Jacob A. Marks**, Sasha Nanda, Stefan Leichenauer, Jack Hidary, *Quantum Hamiltonian-based models and the variational quantum thermalizer algorithm*, 2019. [[Link](https://arxiv.org/pdf/1910.02071.pdf)] 
 
 
