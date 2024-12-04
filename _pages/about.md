@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Recent Ph.D. in Physics from Stanford, where I conducted theoretical and computational research in symmetry protected topology under Tom Devereaux and Xiaoliang Qi. 
+Senior Machine Learning Engineer and Researcher at Voxel51.
+
+In 2022, I completed my Ph.D. in Physics from Stanford, where I conducted theoretical and computational research in symmetry protected topology under Tom Devereaux and Xiaoliang Qi.
 
 I've interned at Google X, Samsung's Think Tank Team, and Wolfram Research. Before all of this, I studied physics, mathematics, and philosophy at Yale.
 
