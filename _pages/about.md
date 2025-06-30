@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Member of Technical Staff at Liquid AI
+Head of Data at Liquid AI
 
 In 2022, I completed my Ph.D. in Physics from Stanford, where I conducted theoretical and computational research in symmetry protected topology under Tom Devereaux and Xiaoliang Qi.
 
